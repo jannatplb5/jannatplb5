@@ -53,5 +53,5 @@ A production-style dashboard for composing, sending and tracking emails.
 ## 📫 Connect with me
 
 <!-- Nicher link gulo apnar nijer link diye replace korun -->
-- Email: zmizan1011@gmail.com
+- Email: zmizan101@gmail.com
 - LinkedIn: https://linkedin.com/in/jannatplb5
