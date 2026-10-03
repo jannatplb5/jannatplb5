@@ -23,6 +23,8 @@ I build modern web apps with **Next.js** and **TypeScript**, with a focus on cle
 
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Deployment**
 
@@ -44,7 +46,7 @@ A production-style dashboard for composing, sending and tracking emails.
 - Webhook handler with Svix signature verification (sent, delivered, opened, bounced)
 - Activity log with metric cards, search, status badges and auto-refresh
 
-**Stack:** Next.js 15 · TypeScript · Tailwind CSS v4 · Resend · React Email · Zod · React Hook Form
+**Stack:** Next.js 15 · TypeScript · Tailwind CSS v4 · Resend · React Email · Supabase (PostgreSQL) · Zod · React Hook Form
 
 🔗 [Live demo](https://resend-email-dashboard.vercel.app) · [Source code](https://github.com/jannatplb5/resend-email-dashboard)
 
@@ -54,4 +56,4 @@ A production-style dashboard for composing, sending and tracking emails.
 
 <!-- Nicher link gulo apnar nijer link diye replace korun -->
 - Email: zmizan101@gmail.com
-- LinkedIn: https://linkedin.com/in/jannatplb5
+- LinkedIn:https://github.com/jannatplb5/
